@@ -5,7 +5,7 @@
 **Platform Engineer • Open Source Builder • Kubernetes Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/GitHub-aloketewary-181717?style=flat-square&logo=github)](https://github.com/aloketewary)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aloketewary-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/aloketewary)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-iamaloke-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/iamaloke/)
 
 </div>
 
