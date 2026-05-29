@@ -132,18 +132,6 @@ reach_me: aloke[at]duck[dot]com
 
 ---
 
-### 📅 This Week's Coding
-
-<!--START_SECTION:waka-->
-```text
-🕐 Coding stats will appear here once WakaTime is configured
-```
-<!--END_SECTION:waka-->
-
-> 💡 Set up [WakaTime](https://wakatime.com) + [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) action to auto-populate this.
-
----
-
 ### 🌱 What I'm Up To
 
 - 🔨 Building **[Kubsome](https://github.com/aloketewary/kubsome)** — AI-native K8s workspace with 100+ commands
